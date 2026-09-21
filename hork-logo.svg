@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="HORK">
+  <title>HORK</title>
+  <defs>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E9956B"/>
+      <stop offset="0.45" stop-color="#C96234"/>
+      <stop offset="1" stop-color="#A8421A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- H: left stem (square top, rounded foot) -->
+  <path fill="url(#copper)"
+        d="M 316 272 h 112 v 404 a 56 56 0 0 1 -112 0 z"/>
+
+  <!-- H: right stem (rounded head, square foot) -->
+  <path fill="url(#copper)"
+        d="M 596 348 a 56 56 0 0 1 112 0 v 404 h -112 z"/>
+
+  <!-- H: crossbar -->
+  <rect x="276" y="470" width="472" height="84" rx="42" ry="42" fill="url(#copper)"/>
+</svg>

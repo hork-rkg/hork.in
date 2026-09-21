@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="HORK">
+  <title>HORK</title>
+  <g fill="currentColor">
+    <path d="M 316 272 h 112 v 404 a 56 56 0 0 1 -112 0 z"/>
+    <path d="M 596 348 a 56 56 0 0 1 112 0 v 404 h -112 z"/>
+    <rect x="276" y="470" width="472" height="84" rx="42" ry="42"/>
+  </g>
+</svg>
