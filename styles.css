@@ -9,9 +9,9 @@ img{max-width:100%;display:block}
 .site-header{position:sticky;top:0;z-index:20;background:rgba(255,251,245,.94);backdrop-filter:blur(18px);border-bottom:1px solid var(--rule)}
 .nav{height:78px;display:flex;align-items:center;gap:42px}
 .brandmark{width:110px;text-decoration:none;display:flex;align-items:center}
-.brandmark-image{display:block;width:58px;height:54px;object-fit:contain}
-.footer-mark-image{display:block;width:46px;height:42px;object-fit:contain}
-.wholesale-logo-image,.omira-logo-image{display:block;height:auto;object-fit:contain;margin-inline:auto}
+.brandmark-image{display:block;width:58px;height:54px;object-fit:contain;mix-blend-mode:multiply}
+.footer-mark-image{display:block;width:46px;height:42px;object-fit:contain;mix-blend-mode:multiply}
+.wholesale-logo-image,.omira-logo-image{display:block;height:auto;object-fit:contain;margin-inline:auto;mix-blend-mode:multiply}
 .wholesale-logo-image{width:min(100%,430px)}
 .omira-logo-image{width:min(100%,350px)}
 .h-lotus{position:relative;display:inline-flex;align-items:center;justify-content:center;color:var(--rust);font:600 48px/1 Georgia,serif;letter-spacing:-12px;padding-right:12px}

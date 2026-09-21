@@ -66,4 +66,10 @@ Focused checks covered the shared header, H-lotus mark, dotless `omıra` wordmar
 
 - P3: replace the email-client contact action with a server-backed form if HORK later needs stored enquiries or automated acknowledgements.
 
-final result: passed
+## September 21 logo correction
+
+The earlier recreated PNGs did not faithfully match the accepted marks. They have been replaced with SVG image viewports containing the original raster artwork from the approved homepage reference. A display filter removes the near-white paper around the artwork; lettering and lotus shapes are no longer recreated from fonts. The embedded raster retains the resolution limits of the supplied mockup.
+
+Both homepage cards now use the same 390px height and shared label, image and caption rows. Browser screenshots at 1280px confirmed matching top/bottom edges and the original artwork. Intermediate-width hero contrast and the missing space at the heading line break were also corrected.
+
+final result: logo and card alignment correction visually verified locally; wider website fidelity is not claimed by this check.
