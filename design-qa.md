@@ -43,6 +43,8 @@ Focused checks covered the shared header, H-lotus mark, dotless `omıra` wordmar
 3. The first published homepage then drifted from the approved composition: its hero headline was oversized and pushed both brand cards below the first screen (P1 hierarchy mismatch).
 4. Fix: rebuilt the homepage as the approved three-column editorial composition—story at left, equal wholesale and retail cards at right—with the value strip and textile quote immediately below.
 5. Post-fix evidence: `qa-index.png` now matches the final user-supplied homepage reference at a 1536 × 1024 viewport.
+6. A live-browser review exposed font and pseudo-element drift in the H and Omira marks (P1 brand-fidelity mismatch).
+7. Fix: replaced every assembled text logo with three locked transparent PNG assets: `h-mark.png`, `hari-om-raj-kumar-logo.png`, and `omira-logo.png`. The same pixels now render in the navigation, brand cards, contact page and footer.
 
 ## Primary interactions tested
 

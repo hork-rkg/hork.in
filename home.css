@@ -9,6 +9,8 @@
 .home-intro .origin:before{content:"";position:absolute;top:0;left:0;width:54px;height:1px;background:var(--rust)}
 .home-stage .cards{display:contents}
 .home-stage .brand-card{min-height:356px;padding:32px 24px;background:rgba(255,253,249,.97);border-color:rgba(167,95,50,.38);box-shadow:0 18px 45px rgba(73,44,25,.18)}
+.home-stage .brand-card .wholesale-logo-image{width:auto;max-width:96%;max-height:238px;margin:2px auto 0}
+.home-stage .brand-card .omira-logo-image{width:auto;max-width:90%;max-height:252px;margin:0 auto}
 .home-stage .brand-card .label{margin-bottom:12px;color:#a72918}
 .home-stage .brand-card .h-lotus{font-size:100px;line-height:.92;margin:10px 0 8px}
 .home-stage .brand-card .h-lotus:after{width:48px;height:38px;left:50%;top:50%;transform:translate(-50%,-50%);background-image:url('lotus-gold.png?v=2')!important}
