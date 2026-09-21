@@ -3,6 +3,7 @@
 ## Evidence
 
 - Source visual truth:
+  - Final Home reference supplied by the user: `/var/folders/d3/0jmfz87d5fs7hk5q3mxt1yjc0000gn/T/codex-clipboard-b72440fa-fdd1-46ff-9b78-322fecd3c4bd.png`
   - Home: `/Users/uj/.codex/generated_images/01a061b7-9b2b-7db2-81d7-13996be5a9ea/exec-12cb268c-9e6d-426c-99e9-4014dd4d9741.png`
   - Our Brands: `/Users/uj/.codex/generated_images/01a061b7-9b2b-7db2-81d7-13996be5a9ea/exec-9a0d1570-a528-4c2b-8806-115dceb32dc8.png`
   - Our Customers: `/Users/uj/.codex/generated_images/01a061b7-9b2b-7db2-81d7-13996be5a9ea/exec-458f4ead-26f4-4355-8e54-536706569fb3.png`
@@ -39,7 +40,9 @@ Focused checks covered the shared header, H-lotus mark, dotless `omıra` wordmar
 
 1. Initial browser pass found the shared lotus rendered as a generic gear-like flower (P2 asset mismatch).
 2. Fix: generated and installed a dedicated five-petal antique-gold lotus asset for both the H crossbar and Omira crown.
-3. Post-fix evidence: `qa-brands.png` and `qa-index.png` show the corrected shared lotus treatment at the intended desktop state.
+3. The first published homepage then drifted from the approved composition: its hero headline was oversized and pushed both brand cards below the first screen (P1 hierarchy mismatch).
+4. Fix: rebuilt the homepage as the approved three-column editorial composition—story at left, equal wholesale and retail cards at right—with the value strip and textile quote immediately below.
+5. Post-fix evidence: `qa-index.png` now matches the final user-supplied homepage reference at a 1536 × 1024 viewport.
 
 ## Primary interactions tested
 

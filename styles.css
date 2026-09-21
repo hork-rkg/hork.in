@@ -10,7 +10,7 @@ img{max-width:100%;display:block}
 .nav{height:78px;display:flex;align-items:center;gap:42px}
 .brandmark{width:110px;text-decoration:none;display:flex;align-items:center}
 .h-lotus{position:relative;display:inline-flex;align-items:center;justify-content:center;color:var(--rust);font:600 48px/1 Georgia,serif;letter-spacing:-12px;padding-right:12px}
-.h-lotus:after{content:"";position:absolute;width:25px;height:20px;left:25px;top:13px;background:url('lotus-gold.png') center/contain no-repeat}
+.h-lotus:after{content:"";position:absolute;width:25px;height:20px;left:50%;top:50%;transform:translate(-50%,-50%);background:url('lotus-gold.png?v=2') center/contain no-repeat}
 .nav-links{display:flex;gap:36px;align-items:center}
 .nav-links a{text-decoration:none;letter-spacing:.05em;padding:27px 0 23px;border-bottom:2px solid transparent}
 .nav-links a:hover,.nav-links a[aria-current=page]{color:var(--rust);border-color:var(--rust)}
@@ -34,7 +34,7 @@ img{max-width:100%;display:block}
 .brand-card h2{font:500 2.25rem/1.1 Georgia,serif;margin:0}
 .brand-card .since{color:var(--rust);font-size:.73rem;letter-spacing:.22em;margin:14px 0;text-transform:uppercase}
 .omira{position:relative;font:600 4.2rem/.9 Georgia,serif;color:#9d6a16;margin:32px 0 18px;letter-spacing:-.06em}
-.omira:before{content:"";position:absolute;left:50%;transform:translateX(-50%);top:-38px;width:46px;height:34px;background:url('lotus-gold.png') center/contain no-repeat}
+.omira:before{content:"";position:absolute;left:50%;transform:translateX(-50%);top:-38px;width:46px;height:34px;background:url('lotus-gold.png?v=2') center/contain no-repeat}
 .brand-card .sub{font:500 1.6rem/1.15 Georgia,serif;max-width:360px}
 .values{background:var(--white);border-block:1px solid var(--rule);padding:26px 0}
 .values .shell{display:grid;grid-template-columns:repeat(4,1fr)}
