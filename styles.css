@@ -54,8 +54,8 @@ img{max-width:100%;display:block}
 .split-directory{display:grid;grid-template-columns:1fr 1fr;background:var(--white);border:1px solid var(--rule);border-radius:22px;overflow:hidden;box-shadow:var(--shadow);margin-bottom:74px}
 .directory-side{padding:52px}
 .directory-side+.directory-side{border-left:1px solid var(--rule)}
-.directory-brand{text-align:center;min-height:205px;display:flex;flex-direction:column;align-items:center;justify-content:center}
-.directory-brand .wholesale-logo-image,.directory-brand .omira-logo-image{width:auto;max-width:100%;max-height:190px;margin-top:14px}
+.directory-brand{text-align:center;display:grid;grid-template-rows:24px 240px;justify-items:center;align-items:center;gap:20px}
+.directory-brand .wholesale-logo-image,.directory-brand .omira-logo-image{width:100%;height:240px;max-width:322px;max-height:none;margin:0;object-fit:contain}
 .directory-brand .h-lotus{font-size:75px}
 .directory-brand .omira{font-size:3.6rem}
 .directory-brand h2{font:500 2rem/1.1 Georgia,serif;margin:6px}
@@ -92,8 +92,9 @@ img{max-width:100%;display:block}
 .contact-hero h1{font:500 clamp(3.4rem,6vw,6.5rem)/.92 Georgia,serif;color:var(--rust);margin:16px 0}
 .contact-image{height:430px;border-radius:22px;background:url('shop-textiles.png') center/cover;box-shadow:var(--shadow)}
 .contact-types{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-bottom:38px}
-.contact-type{background:var(--white);border:1px solid var(--rule);border-radius:16px;padding:30px}
-.contact-type .wholesale-logo-image,.contact-type .omira-logo-image{width:auto;max-width:100%;max-height:190px;margin:18px auto}
+.contact-type{background:var(--white);border:1px solid var(--rule);border-radius:16px;padding:32px;text-align:center;display:grid;grid-template-rows:24px 240px auto;justify-items:center;align-items:center;gap:20px}
+.contact-type .wholesale-logo-image,.contact-type .omira-logo-image{width:100%;height:240px;max-width:322px;max-height:none;margin:0;object-fit:contain}
+.contact-type p{max-width:360px;margin:0;color:var(--muted)}
 .contact-type h2{font:500 2rem Georgia,serif}
 .contact-form{background:var(--white);border:1px solid var(--rule);border-radius:20px;padding:38px;margin-bottom:74px}
 .contact-form h2{font:500 2.5rem Georgia,serif;margin-top:0}
@@ -144,6 +145,9 @@ textarea{min-height:150px;resize:vertical}
 .state-list{grid-template-columns:1fr 1fr}
 }
 @media(max-width:600px){.story-grid{grid-template-columns:1fr}
+.directory-brand,.contact-type{grid-template-rows:24px 210px}
+.contact-type{grid-template-rows:24px 210px auto;padding:24px}
+.directory-brand .wholesale-logo-image,.directory-brand .omira-logo-image,.contact-type .wholesale-logo-image,.contact-type .omira-logo-image{height:210px;max-width:282px}
 .values .shell,.state-list,.support-grid{grid-template-columns:1fr}
 .value{border-right:0;border-bottom:1px solid var(--rule)}
 .brand-card,.directory-side{padding:28px}
