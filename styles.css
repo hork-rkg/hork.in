@@ -145,6 +145,7 @@ textarea{min-height:150px;resize:vertical}
 .site-footer a{text-decoration:none}
 .site-footer a:hover{color:var(--rust)}
 
+@media(max-width:1200px){.nav-tag{display:none}}
 @media(max-width:1000px){.story-grid{grid-template-columns:repeat(3,1fr)}
 }
 @media(max-width:850px){.shell{width:min(100% - 32px,700px)}
