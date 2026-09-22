@@ -72,6 +72,14 @@ img{max-width:100%;display:block}
 .directory-brand .omira{font-size:3.6rem}
 .directory-brand h2{font:500 2rem/1.1 Georgia,serif;margin:6px}
 .photo-strip{height:190px;border-radius:12px;background:url('shop-textiles.png') center/cover;margin:24px 0 30px}
+.shop-main{padding:56px 0 64px}
+.shop-coming{text-align:center;padding:48px 24px;background:var(--linen),rgba(255,253,249,.85);border:1px solid var(--rule);border-radius:22px;box-shadow:var(--shadow)}
+.shop-symbol{display:block;width:92px;height:78px;object-fit:contain;margin:0 auto 24px}
+.shop-coming h1{font:500 clamp(2.5rem,5vw,4.5rem)/1.08 Georgia,serif;color:var(--rust);margin:20px 0 24px;letter-spacing:-.025em}
+.shop-status{display:inline-block;padding:8px 18px;border:1px solid var(--rule);border-radius:99px;color:var(--rust);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase}
+.shop-coming p{max-width:520px;margin:24px auto;line-height:1.7;color:var(--muted)}
+.shop-coming .button{background:var(--rust);color:white;border-color:var(--rust)}
+.shop-note{margin-top:36px;color:var(--muted);font-size:.72rem;letter-spacing:.13em;text-transform:uppercase}
 .retail-photo{background-position:right center}
 .info-row{display:grid;grid-template-columns:130px 1fr;gap:20px;padding:16px 0;border-top:1px solid var(--rule)}
 .info-row b{color:var(--rust);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase}
