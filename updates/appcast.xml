@@ -4,12 +4,12 @@
         <title>HORK</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 24 Sep 2026 23:37:14 +0530</pubDate>
+            <pubDate>Fri, 25 Sep 2026 01:32:53 +0530</pubDate>
             <link>https://hork.in/</link>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://hork.in/updates/HORK-1.0-2.zip" length="15360927" type="application/octet-stream" sparkle:edSignature="faakzFC0BNY1WXyEWAtCQShXerJVnFIztEto2uMACe5zoJjRobDXMQFX2DVrtAZbg8uvFtEKLg52jplPjvz1AQ=="/>
+            <enclosure url="https://hork.in/updates/HORK-1.0-3.zip" length="15360986" type="application/octet-stream" sparkle:edSignature="MLMkskyo97TpTWR+Bk5w+bbv9vlSKxzb2bBfIHjkJpCwxwPOzhOh2jbbfhtCbo9PgBkel5GcoW21x45byRAIAQ=="/>
         </item>
     </channel>
 </rss>
