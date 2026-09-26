@@ -11,13 +11,6 @@
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://hork.in/updates/HORK-1.0-8.md</sparkle:releaseNotesLink>
             <enclosure url="https://hork.in/updates/HORK-1.0-8.zip" length="15582883" type="application/octet-stream" sparkle:edSignature="E/z/SsQoiHmLs3Y6NkaRvCv/1+8yk72wOMvPQXUf3ZfB4wiI89Ac5reFuUi5Fa5j946iop03gM5+VN5kAejKCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://hork.in/updates/HORK8-7.delta" sparkle:deltaFrom="7" length="1198530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JZInLmw7yHB7ENqcXS3utod+oBDryQsFdDAVWBDBMa0ifcWuWlPV89soW56T/RFf4qtWvHK7g2RN+aIQ3QvNDw=="/>
-                <enclosure url="https://hork.in/updates/HORK8-6.delta" sparkle:deltaFrom="6" length="1695654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oS/4k5pbeh7vxkveqclc/r0JSFdCmfLYpyLZzVLeAh0T2ist01XUKDz+cD56z4KdxvrPpT/l+gPBYX4TYoHsCg=="/>
-                <enclosure url="https://hork.in/updates/HORK8-5.delta" sparkle:deltaFrom="5" length="2198062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JV0wc2iVlX793omJ5Ngjl+PCkxNnPUZgRx/DU9NGKWWrnxyw2J5KYvGo5keiR9PlV7V4EW6SKP7ICBlVy0GVCA=="/>
-                <enclosure url="https://hork.in/updates/HORK8-4.delta" sparkle:deltaFrom="4" length="2199242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZPCaq2+RN0EHsPL44J+4odn+K9ubqYDE4zmRuHg1ZoXUzBTmPBZVjBP4v+FD+lsIzz0Decs/SCHO2c92ZgL6Aw=="/>
-                <enclosure url="https://hork.in/updates/HORK8-3.delta" sparkle:deltaFrom="3" length="2201394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vxCNyd+f/PrLSdXQpy7HuHsTfqlq5zNU4I+k9hBZ3nwcEldgK8lYBCKkwPIVUgA6gVKBXHAKrbehYjA5rJJTBw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0</title>
