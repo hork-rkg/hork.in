@@ -13,3 +13,7 @@ This update improves day-to-day speed, customer management, inventory editing, a
 - Universal Apple Silicon and Intel Mac support.
 
 Your existing business data is preserved during the update.
+
+## One-time repair for Build 14
+
+Build 14 was published with incorrect updater-service permissions. If HORK shows “An error occurred while running the updater,” quit HORK, download the [notarized Build 15 installer](https://hork.in/updates/HORK-1.0-15.dmg), open it, and drag HORK to Applications. Choose **Replace** when macOS asks. This does not remove the business database. Automatic updates work normally again after Build 15 is installed.
