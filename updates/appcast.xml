@@ -4,6 +4,16 @@
         <title>HORK</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 06 Oct 2026 23:37:56 +0530</pubDate>
+            <link>https://hork.in/</link>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://hork.in/updates/HORK-1.0-19.md</sparkle:releaseNotesLink>
+            <enclosure url="https://hork.in/updates/HORK-1.0-19.zip" length="16605575" type="application/octet-stream" sparkle:edSignature="ozZE44uuFQDc2SkjPoro2LkvYl6AwD40zalsgR9Qxqqu8WFc6ad80HlTnFqF/p3p2CzlDhfq/O82T6eYYgxsCA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 06 Oct 2026 16:42:56 +0530</pubDate>
             <link>https://hork.in/</link>
             <sparkle:version>18</sparkle:version>
