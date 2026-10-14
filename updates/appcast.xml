@@ -3,6 +3,16 @@
     <channel>
         <title>HORK</title>
         <item>
+            <title>1.0 (28)</title>
+            <pubDate>Wed, 14 Oct 2026 19:24:51 +0530</pubDate>
+            <link>https://hork.in/</link>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://hork.in/updates/HORK-1.0-28.md</sparkle:releaseNotesLink>
+            <enclosure url="https://hork.in/updates/HORK-1.0-28.zip" length="17475547" type="application/octet-stream" sparkle:edSignature="lz8jyXBqK1QVfsRlzInwI0nI9kr8X2kEpO0N0AWiDnT3UkvaaFEu5N9jMYgQWkKGNSByqcjRfojcWYJQwYl9AA=="/>
+        </item>
+        <item>
             <title>1.0 (27)</title>
             <pubDate>Tue, 13 Oct 2026 20:14:19 +0530</pubDate>
             <link>https://hork.in/</link>
